@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">웰스터디</string>
+    <string name="url">https://wellstudy.kr</string>
+
+    <!--http://api.happyboom.epochcorp.kr-->
+    <!--https://wellstudy.kr-->
+</resources>
